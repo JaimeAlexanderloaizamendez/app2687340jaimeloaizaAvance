@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727189917863",
+    "project_id": "desarrollomovilnativo1-b4e23",
+    "storage_bucket": "desarrollomovilnativo1-b4e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727189917863:android:5c3d69f39fa4b3e2ba8b82",
+        "android_client_info": {
+          "package_name": "co.edu.sena.app2687340jaimeloaiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727189917863-q5vjq3lk1rbgn6k7dg1hq30qp05f0c17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhgLnA8wOEEGpM9AG9rsjse5szgONHZpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727189917863-q5vjq3lk1rbgn6k7dg1hq30qp05f0c17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
